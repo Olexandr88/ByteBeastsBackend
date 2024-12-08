@@ -10,7 +10,6 @@
 <a href="https://github.com/ByteBuildersLabs/ByteBeastsBackend/stargazers">
 <img src="https://img.shields.io/github/stars/ByteBuildersLabs?style=social"/>
 </a>
-
 [![Telegram Chat][tg-badge]][tg-url]
 
 [tg-badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&style=flat-square&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fdojoengine
